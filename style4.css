@@ -1,0 +1,55 @@
+@charset "utf-8";
+
+#container{
+    
+    width: 900px;
+    height: 700px; 
+    background-color: #4f7764;
+    border: 5px solid blanchedalmond;
+    display: flex;
+    border-radius: 45px;
+    margin: 0 auto;
+
+}
+
+#content{
+    width: 700px;
+    height: 500px; 
+    background-color: #92523c; 
+    margin: auto;
+}
+#conttcn{
+width: 700px;
+height: 100px;
+background-color: #509a80;
+}
+#contry{
+width: 700px;
+height: 50px;
+background-color: #a7d4;
+flex-shrink: 0;
+}
+#ciiind{
+    width: 700px;
+   height: 270px;
+    background-color: #92523c; 
+}
+#cunter{
+    width: 700px;
+    height: 80px;
+    background-color: #badde9;
+}
+#hasdi{
+    height: 270px;
+    width: 160px;
+    background-color: #a7d4c3;
+}
+#idubsa{
+    height: 270px;
+    width: 160px;
+    background-color: #a7d4c3;
+    margin-left: 540px;
+    margin-top: -270px;
+}
+
+

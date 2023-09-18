@@ -1,0 +1,19 @@
+@charset "utf-8";
+
+#container{
+    
+    width: 900px;
+    height: 700px; 
+    background-color: #3d6756;
+    border: 5px solid bisque;
+    display: flex;
+    border-radius: 45px;
+    margin: 0 auto;
+}
+
+#content{
+    width: 700px;
+    height: 500px; 
+    background-color: #8d4b45; 
+    margin: auto;
+}

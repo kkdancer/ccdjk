@@ -1,0 +1,27 @@
+@charset "utf-8";
+
+#container{
+    
+    width: 900px;
+    height: 700px; 
+    background-color: #4f7764;
+    border: 5px solid blanchedalmond;
+    display: flex;
+    border-radius: 45px;
+    margin: 0 auto;
+    
+}
+
+#content{
+    width: 700px;
+    height: 500px; 
+    background-color: #92523c; 
+    margin: auto;
+}
+#conttcn{
+width: 100px;
+height: 500px;
+background-color: #509a80;
+text-align: left;
+
+}
